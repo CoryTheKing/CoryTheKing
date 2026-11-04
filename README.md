@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Cory White 👋
 
-<!--
-**CoryTheKing/CoryTheKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game developer, 3D artist and software engineer** · University of Florida graduate
 
-Here are some ideas to get you started:
+[🌐 Portfolio](https://www.corywportfolio.com) · [💼 LinkedIn](https://www.linkedin.com/in/cory-white-1b351b215/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- 🎮 **Games**: Unity team projects, a 2D pixel-art space game, a first-person exploration game and an AI-assisted honors thesis game
+- 🧊 **3D art & animation**: Blender models and a 12-piece animation reel
+- 💻 **Software & tools**: web apps with React and Firebase, procedural terrain generation in C++ and Java
+- 📐 **CAD**: SolidWorks parts, assemblies and engineering drawings
+
+## Tools
+
+Python · Java · C++ · C# · SQL · Processing · Unity · Blender · AutoCAD · SolidWorks · Git
+
+## See my work
+
+Case studies, gameplay videos and galleries live on my portfolio: **[corywportfolio.com](https://www.corywportfolio.com)**
